@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Elena</h1>
+<h1 align="center">Hello 👋, I'm Elena 👩‍💻🌈</h1>
 <h3 align="center">PhD Candidate in Network Science @ Utrecht University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elenacandellone&label=Profile%20views&color=0e75b6&style=flat" alt="elenacandellone" /> </p>
